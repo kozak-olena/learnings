@@ -1,0 +1,11 @@
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\bin\Debug\netcoreapp2.1\matrix 7 Sasha.deps.json
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\bin\Debug\netcoreapp2.1\matrix 7 Sasha.runtimeconfig.json
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\bin\Debug\netcoreapp2.1\matrix 7 Sasha.runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\bin\Debug\netcoreapp2.1\matrix 7 Sasha.dll
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\bin\Debug\netcoreapp2.1\matrix 7 Sasha.pdb
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\obj\Debug\netcoreapp2.1\matrix 7 Sasha.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\obj\Debug\netcoreapp2.1\matrix 7 Sasha.AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\obj\Debug\netcoreapp2.1\matrix 7 Sasha.AssemblyInfo.cs
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\obj\Debug\netcoreapp2.1\matrix 7 Sasha.dll
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\obj\Debug\netcoreapp2.1\matrix 7 Sasha.pdb
+C:\Users\Alenina\source\repos\matrix\matrix 7 Sasha\obj\Debug\netcoreapp2.1\matrix 7 Sasha.csprojAssemblyReference.cache

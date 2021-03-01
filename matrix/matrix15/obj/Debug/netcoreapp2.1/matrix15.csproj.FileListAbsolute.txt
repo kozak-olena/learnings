@@ -1,0 +1,11 @@
+C:\Users\Alenina\source\repos\matrix\matrix15\bin\Debug\netcoreapp2.1\matrix15.deps.json
+C:\Users\Alenina\source\repos\matrix\matrix15\bin\Debug\netcoreapp2.1\matrix15.runtimeconfig.json
+C:\Users\Alenina\source\repos\matrix\matrix15\bin\Debug\netcoreapp2.1\matrix15.runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\matrix\matrix15\bin\Debug\netcoreapp2.1\matrix15.dll
+C:\Users\Alenina\source\repos\matrix\matrix15\bin\Debug\netcoreapp2.1\matrix15.pdb
+C:\Users\Alenina\source\repos\matrix\matrix15\obj\Debug\netcoreapp2.1\matrix15.csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\matrix\matrix15\obj\Debug\netcoreapp2.1\matrix15.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix15\obj\Debug\netcoreapp2.1\matrix15.AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix15\obj\Debug\netcoreapp2.1\matrix15.AssemblyInfo.cs
+C:\Users\Alenina\source\repos\matrix\matrix15\obj\Debug\netcoreapp2.1\matrix15.dll
+C:\Users\Alenina\source\repos\matrix\matrix15\obj\Debug\netcoreapp2.1\matrix15.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alenina\source\repos\matrix\recursion\bin\Debug\netcoreapp2.1\recursion.deps.json
+C:\Users\Alenina\source\repos\matrix\recursion\bin\Debug\netcoreapp2.1\recursion.runtimeconfig.json
+C:\Users\Alenina\source\repos\matrix\recursion\bin\Debug\netcoreapp2.1\recursion.runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\matrix\recursion\bin\Debug\netcoreapp2.1\recursion.dll
+C:\Users\Alenina\source\repos\matrix\recursion\bin\Debug\netcoreapp2.1\recursion.pdb
+C:\Users\Alenina\source\repos\matrix\recursion\obj\Debug\netcoreapp2.1\recursion.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\matrix\recursion\obj\Debug\netcoreapp2.1\recursion.AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\matrix\recursion\obj\Debug\netcoreapp2.1\recursion.AssemblyInfo.cs
+C:\Users\Alenina\source\repos\matrix\recursion\obj\Debug\netcoreapp2.1\recursion.dll
+C:\Users\Alenina\source\repos\matrix\recursion\obj\Debug\netcoreapp2.1\recursion.pdb

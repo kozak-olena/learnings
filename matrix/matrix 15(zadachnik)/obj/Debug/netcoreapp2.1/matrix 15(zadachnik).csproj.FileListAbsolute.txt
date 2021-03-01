@@ -1,0 +1,11 @@
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\bin\Debug\netcoreapp2.1\matrix 15(zadachnik).deps.json
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\bin\Debug\netcoreapp2.1\matrix 15(zadachnik).runtimeconfig.json
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\bin\Debug\netcoreapp2.1\matrix 15(zadachnik).runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\bin\Debug\netcoreapp2.1\matrix 15(zadachnik).dll
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\bin\Debug\netcoreapp2.1\matrix 15(zadachnik).pdb
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\obj\Debug\netcoreapp2.1\matrix 15(zadachnik).csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\obj\Debug\netcoreapp2.1\matrix 15(zadachnik).csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\obj\Debug\netcoreapp2.1\matrix 15(zadachnik).AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\obj\Debug\netcoreapp2.1\matrix 15(zadachnik).AssemblyInfo.cs
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\obj\Debug\netcoreapp2.1\matrix 15(zadachnik).dll
+C:\Users\Alenina\source\repos\matrix\matrix 15(zadachnik)\obj\Debug\netcoreapp2.1\matrix 15(zadachnik).pdb

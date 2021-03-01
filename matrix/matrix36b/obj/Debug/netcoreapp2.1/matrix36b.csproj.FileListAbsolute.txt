@@ -1,0 +1,11 @@
+C:\Users\Alenina\source\repos\matrix\matrix36b\bin\Debug\netcoreapp2.1\matrix36b.deps.json
+C:\Users\Alenina\source\repos\matrix\matrix36b\bin\Debug\netcoreapp2.1\matrix36b.runtimeconfig.json
+C:\Users\Alenina\source\repos\matrix\matrix36b\bin\Debug\netcoreapp2.1\matrix36b.runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\matrix\matrix36b\bin\Debug\netcoreapp2.1\matrix36b.dll
+C:\Users\Alenina\source\repos\matrix\matrix36b\bin\Debug\netcoreapp2.1\matrix36b.pdb
+C:\Users\Alenina\source\repos\matrix\matrix36b\obj\Debug\netcoreapp2.1\matrix36b.csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\matrix\matrix36b\obj\Debug\netcoreapp2.1\matrix36b.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix36b\obj\Debug\netcoreapp2.1\matrix36b.AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix36b\obj\Debug\netcoreapp2.1\matrix36b.AssemblyInfo.cs
+C:\Users\Alenina\source\repos\matrix\matrix36b\obj\Debug\netcoreapp2.1\matrix36b.dll
+C:\Users\Alenina\source\repos\matrix\matrix36b\obj\Debug\netcoreapp2.1\matrix36b.pdb

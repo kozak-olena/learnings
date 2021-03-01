@@ -1,0 +1,11 @@
+C:\Users\Alenina\source\repos\matrix\matrix 3\bin\Debug\netcoreapp2.1\matrix 3.deps.json
+C:\Users\Alenina\source\repos\matrix\matrix 3\bin\Debug\netcoreapp2.1\matrix 3.runtimeconfig.json
+C:\Users\Alenina\source\repos\matrix\matrix 3\bin\Debug\netcoreapp2.1\matrix 3.runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\matrix\matrix 3\bin\Debug\netcoreapp2.1\matrix 3.dll
+C:\Users\Alenina\source\repos\matrix\matrix 3\bin\Debug\netcoreapp2.1\matrix 3.pdb
+C:\Users\Alenina\source\repos\matrix\matrix 3\obj\Debug\netcoreapp2.1\matrix 3.csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\matrix\matrix 3\obj\Debug\netcoreapp2.1\matrix 3.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix 3\obj\Debug\netcoreapp2.1\matrix 3.AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix 3\obj\Debug\netcoreapp2.1\matrix 3.AssemblyInfo.cs
+C:\Users\Alenina\source\repos\matrix\matrix 3\obj\Debug\netcoreapp2.1\matrix 3.dll
+C:\Users\Alenina\source\repos\matrix\matrix 3\obj\Debug\netcoreapp2.1\matrix 3.pdb

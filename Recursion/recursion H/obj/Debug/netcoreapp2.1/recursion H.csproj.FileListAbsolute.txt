@@ -1,0 +1,11 @@
+C:\Users\Alenina\source\repos\Recursion\recursion H\bin\Debug\netcoreapp2.1\recursion H.deps.json
+C:\Users\Alenina\source\repos\Recursion\recursion H\bin\Debug\netcoreapp2.1\recursion H.runtimeconfig.json
+C:\Users\Alenina\source\repos\Recursion\recursion H\bin\Debug\netcoreapp2.1\recursion H.runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\Recursion\recursion H\bin\Debug\netcoreapp2.1\recursion H.dll
+C:\Users\Alenina\source\repos\Recursion\recursion H\bin\Debug\netcoreapp2.1\recursion H.pdb
+C:\Users\Alenina\source\repos\Recursion\recursion H\obj\Debug\netcoreapp2.1\recursion H.csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\Recursion\recursion H\obj\Debug\netcoreapp2.1\recursion H.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\Recursion\recursion H\obj\Debug\netcoreapp2.1\recursion H.AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\Recursion\recursion H\obj\Debug\netcoreapp2.1\recursion H.AssemblyInfo.cs
+C:\Users\Alenina\source\repos\Recursion\recursion H\obj\Debug\netcoreapp2.1\recursion H.dll
+C:\Users\Alenina\source\repos\Recursion\recursion H\obj\Debug\netcoreapp2.1\recursion H.pdb

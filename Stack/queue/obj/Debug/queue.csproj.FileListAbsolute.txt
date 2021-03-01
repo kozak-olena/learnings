@@ -1,0 +1,6 @@
+C:\Users\Alenina\source\repos\Stack\queue\bin\Debug\queue.exe.config
+C:\Users\Alenina\source\repos\Stack\queue\bin\Debug\queue.exe
+C:\Users\Alenina\source\repos\Stack\queue\bin\Debug\queue.pdb
+C:\Users\Alenina\source\repos\Stack\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\Stack\queue\obj\Debug\queue.exe
+C:\Users\Alenina\source\repos\Stack\queue\obj\Debug\queue.pdb

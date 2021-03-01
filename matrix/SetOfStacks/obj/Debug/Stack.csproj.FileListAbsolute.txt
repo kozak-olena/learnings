@@ -1,0 +1,7 @@
+C:\Users\Alenina\source\repos\matrix\SetOfStacks\bin\Debug\SetOfStacks.exe.config
+C:\Users\Alenina\source\repos\matrix\SetOfStacks\bin\Debug\SetOfStacks.exe
+C:\Users\Alenina\source\repos\matrix\SetOfStacks\bin\Debug\SetOfStacks.pdb
+C:\Users\Alenina\source\repos\matrix\SetOfStacks\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\matrix\SetOfStacks\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\matrix\SetOfStacks\obj\Debug\SetOfStacks.exe
+C:\Users\Alenina\source\repos\matrix\SetOfStacks\obj\Debug\SetOfStacks.pdb

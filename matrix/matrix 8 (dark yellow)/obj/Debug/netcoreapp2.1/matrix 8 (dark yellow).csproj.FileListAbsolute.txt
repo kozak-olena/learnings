@@ -1,0 +1,11 @@
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\bin\Debug\netcoreapp2.1\matrix 8 (dark yellow).deps.json
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\bin\Debug\netcoreapp2.1\matrix 8 (dark yellow).runtimeconfig.json
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\bin\Debug\netcoreapp2.1\matrix 8 (dark yellow).runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\bin\Debug\netcoreapp2.1\matrix 8 (dark yellow).dll
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\bin\Debug\netcoreapp2.1\matrix 8 (dark yellow).pdb
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\obj\Debug\netcoreapp2.1\matrix 8 (dark yellow).csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\obj\Debug\netcoreapp2.1\matrix 8 (dark yellow).csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\obj\Debug\netcoreapp2.1\matrix 8 (dark yellow).AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\obj\Debug\netcoreapp2.1\matrix 8 (dark yellow).AssemblyInfo.cs
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\obj\Debug\netcoreapp2.1\matrix 8 (dark yellow).dll
+C:\Users\Alenina\source\repos\matrix\matrix 8 (dark yellow)\obj\Debug\netcoreapp2.1\matrix 8 (dark yellow).pdb

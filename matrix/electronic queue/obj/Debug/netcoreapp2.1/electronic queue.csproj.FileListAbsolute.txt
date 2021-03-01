@@ -1,0 +1,11 @@
+C:\Users\Alenina\source\repos\matrix\electronic queue\obj\Debug\netcoreapp2.1\electronic queue.csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\matrix\electronic queue\obj\Debug\netcoreapp2.1\electronic queue.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\matrix\electronic queue\obj\Debug\netcoreapp2.1\electronic queue.AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\matrix\electronic queue\obj\Debug\netcoreapp2.1\electronic queue.AssemblyInfo.cs
+C:\Users\Alenina\source\repos\matrix\electronic queue\bin\Debug\netcoreapp2.1\electronic queue.deps.json
+C:\Users\Alenina\source\repos\matrix\electronic queue\bin\Debug\netcoreapp2.1\electronic queue.runtimeconfig.json
+C:\Users\Alenina\source\repos\matrix\electronic queue\bin\Debug\netcoreapp2.1\electronic queue.runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\matrix\electronic queue\bin\Debug\netcoreapp2.1\electronic queue.dll
+C:\Users\Alenina\source\repos\matrix\electronic queue\bin\Debug\netcoreapp2.1\electronic queue.pdb
+C:\Users\Alenina\source\repos\matrix\electronic queue\obj\Debug\netcoreapp2.1\electronic queue.dll
+C:\Users\Alenina\source\repos\matrix\electronic queue\obj\Debug\netcoreapp2.1\electronic queue.pdb

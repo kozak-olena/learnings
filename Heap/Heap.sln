@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heap", "Heap\Heap.csproj", "{EA9EE97D-A4A3-47FC-86E6-20D6917057AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSearch", "SimpleSearch\SimpleSearch.csproj", "{911C453D-1E0F-4FA1-8CA7-1F178873ABD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA9EE97D-A4A3-47FC-86E6-20D6917057AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9EE97D-A4A3-47FC-86E6-20D6917057AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9EE97D-A4A3-47FC-86E6-20D6917057AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9EE97D-A4A3-47FC-86E6-20D6917057AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911C453D-1E0F-4FA1-8CA7-1F178873ABD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911C453D-1E0F-4FA1-8CA7-1F178873ABD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911C453D-1E0F-4FA1-8CA7-1F178873ABD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911C453D-1E0F-4FA1-8CA7-1F178873ABD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAE821F4-C841-44B9-ABA8-D64830092C9F}
+	EndGlobalSection
+EndGlobal
