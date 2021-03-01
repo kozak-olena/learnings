@@ -1,0 +1,7 @@
+C:\Users\Alenina\source\repos\Dictionary\Dictionary2\bin\Debug\Dictionary2.exe.config
+C:\Users\Alenina\source\repos\Dictionary\Dictionary2\bin\Debug\Dictionary2.exe
+C:\Users\Alenina\source\repos\Dictionary\Dictionary2\bin\Debug\Dictionary2.pdb
+C:\Users\Alenina\source\repos\Dictionary\Dictionary2\obj\Debug\Dictionary2.csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\Dictionary\Dictionary2\obj\Debug\Dictionary2.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\Dictionary\Dictionary2\obj\Debug\Dictionary2.exe
+C:\Users\Alenina\source\repos\Dictionary\Dictionary2\obj\Debug\Dictionary2.pdb
